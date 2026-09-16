@@ -1,5 +1,3 @@
-# Cadence
-
 <p align="center">
   <strong>A shared repertoire manager for musical bands.</strong><br>
   Plan the show, keep every song in reach, and take the setlist on stage.
@@ -71,8 +69,9 @@ cache on mobile. The production stack runs on Kubernetes behind Traefik; Kustomi
 
 ## 🚀 Try Cadence
 
-Open the [web application](https://app.cadence.nightnoryu.com/) or install the [latest Android release](https://github.com/cadence-muse/client/releases/latest). Development and deployment instructions live in each repository.
+Open the [web application](https://app.cadence.nightnoryu.com/) or install the [latest Android release](https://github.com/cadence-muse/client/releases/latest).
+Development and deployment instructions live in each repository.
 
-## 📄 License
+## 📜 License
 
 Cadence components are distributed under the [MIT License](https://opensource.org/license/mit).
