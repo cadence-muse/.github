@@ -30,22 +30,18 @@ tempo, duration, and notes together; prepare and reorder setlists; and continue 
 
 ## 🖼️ Screenshots
 
-| Repertoire | Setlist | Band management |
-| --- | --- | --- |
-| _Add a repertoire screenshot here_ | _Add a setlist screenshot here_ | _Add a band screenshot here_ |
-
-<!-- Replace the placeholders above with images stored in this repository, for example:
-![Repertoire](./assets/repertoire.png)
--->
+| Repertoire                              | Setlist                           | Band management             |
+|-----------------------------------------|-----------------------------------|-----------------------------|
+| ![Repertoire](./assets/repertoire.webp) | ![Setlist](./assets/setlist.webp) | ![Band](./assets/band.webp) |
 
 ## 🧩 Repositories
 
-| Repository | Responsibility | Technology |
-| --- | --- | --- |
-| [`cadence`](https://github.com/cadence-muse/cadence) | Public API, domain logic, sessions, and persistence | Go, PostgreSQL, Redis, OpenAPI |
-| [`client`](https://github.com/cadence-muse/client) | Web and Android application with mobile offline cache | Flutter, Riverpod, Hive |
-| [`landing`](https://github.com/cadence-muse/landing) | Product website and links to the app and releases | Hugo, PaperMod |
-| [`platform`](https://github.com/cadence-muse/platform) | Production workloads, networking, secrets, and deployment | Kubernetes, Kustomize, SOPS |
+| Repository                                             | Responsibility                                            | Technology                     |
+|--------------------------------------------------------|-----------------------------------------------------------|--------------------------------|
+| [`cadence`](https://github.com/cadence-muse/cadence)   | Public API, domain logic, sessions, and persistence       | Go, PostgreSQL, Redis, OpenAPI |
+| [`client`](https://github.com/cadence-muse/client)     | Web and Android application with mobile offline cache     | Flutter, Riverpod, Hive        |
+| [`landing`](https://github.com/cadence-muse/landing)   | Product website and links to the app and releases         | Hugo, PaperMod                 |
+| [`platform`](https://github.com/cadence-muse/platform) | Production workloads, networking, secrets, and deployment | Kubernetes, Kustomize, SOPS    |
 
 ## 🏗️ Architecture
 
